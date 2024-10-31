@@ -10,4 +10,4 @@ Edit the yaml file and remove anything you don't want.
 
 Run convert to create a pdf
 
-python3 convert-working urls.yaml
+python3 convert.py urls.yaml
