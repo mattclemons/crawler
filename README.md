@@ -4,7 +4,7 @@ This project contains Python scripts to crawl and convert a technical documentat
 
 Run crawler against a site to create an output yaml file
 
-python3 crawler.py https://cloud.google.com/chronicle/docs/onboard --output urls.yaml
+python3 crawler.py https://site.com/docs/ --output urls.yaml
 
 Edit the yaml file and remove anything you don't want.
 
